@@ -99,11 +99,19 @@ const projects = [
 ]
 
 const exps = [
+
+  {
+    name: 'Amazon',
+    position: 'SDE Intern',
+    dates: 'September 2025 - December 2025',
+    description: 'Incoming Fall Intern in the STORES organization in San Diego, California. Working on an upcoming Prime agent chat team to improve customer service experience.',
+    stack: ['Java', 'AWS', 'Python']
+  },
   {
     name: 'Capital One',
     position: 'SWE Intern',
     dates: 'May 2025 - August 2025',
-    description: 'Worked on the Card Tech team to develop and maintain software solutions for Capital One\'s credit card products. Collaborated with cross-functional teams to deliver high-quality software on time.',
+    description: 'Worked on the Card Tech team to develop an OCR pipeline that extracts information from uploaded documents, improving processing efficiency and accuracy.',
     stack: ['Java', 'Spring Boot', 'AWS', 'Python']
   },
   {
@@ -116,7 +124,7 @@ const exps = [
   {
     name: 'Tecmend',
     position: 'SWE Intern',
-    dates: 'Jan 2023 - May 2023',
+    dates: 'January 2023 - May 2023',
     description: 'Utilized skills in Python and Django to add to three projects\'s backends over the course of the internship. Gained project-based experience in web applications, APIs, and databases.',
     stack: ['Python', 'SQL', 'React', 'JavaScript'],
   },
@@ -133,12 +141,6 @@ const exps = [
     dates: 'January 2024 - May 2024',
     description: 'Assisted in numerous robotics projects in the Robot Learning Lab. Worked on software that enables a Sawyer robot to autonomously play table tennis against a human opponent.',
     stack: ['Python', 'ROS', 'PyTorch'],
-  },
-  {
-    name: 'Self-Employed',
-    position: 'Poker Player',
-    dates: 'August 2024 - Present',
-    description: 'Self-employed poker player with a focus on low stakes cash games. Developed a strong understanding of game theory and risk management through extensive study and practice.',
   }
   
 ]
