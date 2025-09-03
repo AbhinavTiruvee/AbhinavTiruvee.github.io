@@ -10,7 +10,7 @@ const about = {
   role: 'Software Developer',
   description:
     'I am a Computer Science major at the University of Texas at Austin, driven by a strong passion for software development. With 3 previous SWE internships, I\'m currently interning at Capital One on the Card Tech team.',
-  resume: 'https://drive.google.com/file/d/1n5Ex1XOSGuaj-FE1aNqFd4NlFYIKy7db/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1KhPsDO8w6N72e7dkYadboGYupEWKNliW/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abhinav-tiruveedhula/',
     github: 'https://github.com/AbhinavTiruvee',
