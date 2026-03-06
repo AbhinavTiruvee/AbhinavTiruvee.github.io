@@ -9,7 +9,7 @@ const about = {
   name: 'Abhinav Tiruveedhula',
   role: 'Software Developer',
   description:
-    'I am a Computer Science major at the University of Texas at Austin, driven by a strong passion for software development. With 3 previous SWE internships, I\'m currently interning at Capital One on the Card Tech team.',
+    'I am a Computer Science major at the University of Texas at Austin, driven by a strong passion for software development. I will be interning with Amazon in Seattle this summer.',
   resume: 'https://drive.google.com/file/d/1KhPsDO8w6N72e7dkYadboGYupEWKNliW/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abhinav-tiruveedhula/',
@@ -104,7 +104,7 @@ const exps = [
     name: 'Amazon',
     position: 'SDE Intern',
     dates: 'September 2025 - December 2025',
-    description: 'Incoming Fall Intern in the STORES organization in San Diego, California. Working on an upcoming Prime agent chat team to improve customer service experience.',
+    description: 'Worked on an upcoming Prime chat agent initiative to allow for Prime users to recieve personalized product recommendations with dynamic filters.',
     stack: ['Java', 'AWS', 'Python']
   },
   {
